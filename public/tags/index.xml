@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Valerio Firmano</title>
-    <link>https://github.com/Valerio_Protfolio/tags/</link>
+    <link>https://valeriofirmanoo.github.io/PortfolioMy/tags/</link>
     <description>Recent content in Tags on Valerio Firmano</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://github.com/Valerio_Protfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://valeriofirmanoo.github.io/PortfolioMy/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

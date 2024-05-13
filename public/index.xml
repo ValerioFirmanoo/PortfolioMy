@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Valerio Firmano</title>
-    <link>https://github.com/Valerio_Protfolio/</link>
+    <link>https://valeriofirmanoo.github.io/PortfolioMy/</link>
     <description>Recent content in Data Science Portfolio on Valerio Firmano</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 May 2024 10:58:08 -0400</lastBuildDate>
-    <atom:link href="https://github.com/Valerio_Protfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://valeriofirmanoo.github.io/PortfolioMy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dynamic Scheduling Problem Python Solver with RL</title>
-      <link>https://github.com/Valerio_Protfolio/post/chapter-2/</link>
+      <link>https://valeriofirmanoo.github.io/PortfolioMy/post/chapter-2/</link>
       <pubDate>Wed, 01 May 2024 10:58:08 -0400</pubDate>
-      <guid>https://github.com/Valerio_Protfolio/post/chapter-2/</guid>
+      <guid>https://valeriofirmanoo.github.io/PortfolioMy/post/chapter-2/</guid>
       <description>Still work in progress&#xA;This project focuses on exploring the research field of dynamic scheduling problems with RL, dealing with stochastic arrival of the new orders and tardiness cost function&#xA;Main points:&#xA;Developed the ’Environment’ class using object-oriented programming in Python to address a dynamic scheduling problem, enhancing system flexibility and scalability. Engineered a Reinforcement Learning (RL) agent complete with a customized learning algorithm to efficiently manage dynamic scheduling of orders, accommodating random arrival times and diverse cost functions such as earliness and tardiness.</description>
     </item>
     <item>
       <title>Domain Adaptation for Egocentric Action Recognition</title>
-      <link>https://github.com/Valerio_Protfolio/post/chapter-1/</link>
+      <link>https://valeriofirmanoo.github.io/PortfolioMy/post/chapter-1/</link>
       <pubDate>Sat, 01 Jul 2023 10:58:08 -0400</pubDate>
-      <guid>https://github.com/Valerio_Protfolio/post/chapter-1/</guid>
+      <guid>https://valeriofirmanoo.github.io/PortfolioMy/post/chapter-1/</guid>
       <description>Github Repo&#xA;This project focuses on advancing the field of Egocentric Action Recognition through innovative domain adaptation techniques. By leveraging RGB features extracted from the EPIC KITCHEN DATASET with a 3D-inflated network, we explore different domain adaptation methods to enhance generalization across various domain shifts. Our approach combines adversarial learning modules at different temporal aggregation levels with an attentive mechanism and Minimum Class Confusion loss, achieving significant improvements over baseline models.</description>
     </item>
     <item>
       <title>EduQuery: your personalized learning companion</title>
-      <link>https://github.com/Valerio_Protfolio/post/chapter-4/</link>
+      <link>https://valeriofirmanoo.github.io/PortfolioMy/post/chapter-4/</link>
       <pubDate>Fri, 10 Mar 2023 10:58:08 -0400</pubDate>
-      <guid>https://github.com/Valerio_Protfolio/post/chapter-4/</guid>
+      <guid>https://valeriofirmanoo.github.io/PortfolioMy/post/chapter-4/</guid>
       <description>Github Repo&#xA;EduQuery is an online learning platform leverages Language Learning Models (LLMs) to create a gamified educational experience. By integrating adaptive learning algorithms, it personalizes content delivery, ensuring that each learner’s journey is unique and engaging. The platform’s interactive challenges and reward systems are designed to increase motivation and enhance retention. With a focus on collaborative learning, users can connect and compete, fostering a community of learners. The use of LLMs not only facilitates language acquisition but also encourages critical thinking and problem-solving skills, making learning both fun and impactful.</description>
     </item>
     <item>
       <title>Published Research on Modelling Ribosome response to nutrient shift </title>
-      <link>https://github.com/Valerio_Protfolio/post/chapter-5/</link>
+      <link>https://valeriofirmanoo.github.io/PortfolioMy/post/chapter-5/</link>
       <pubDate>Sat, 29 Oct 2022 11:15:58 -0400</pubDate>
-      <guid>https://github.com/Valerio_Protfolio/post/chapter-5/</guid>
+      <guid>https://valeriofirmanoo.github.io/PortfolioMy/post/chapter-5/</guid>
       <description>Github Repo&#xA;For my Bachelor&amp;rsquo;s final project in Physics, I delved into the realm of Biophysics, embarking on a research journey to develop a novel model. Focused on understanding the response of specific Ribosome characteristics to nutrient shifts, our endeavor aimed to fill a crucial gap in existing knowledge.&#xA;Through meticulous exploration, we unearthed a significant oversight in the prevailing model, which primarily addressed specific conditions rather than the broader scope.</description>
     </item>
     <item>
       <title>Options Pricing calculator Library in C&#43;&#43; and CUDA</title>
-      <link>https://github.com/Valerio_Protfolio/post/chapter-3/</link>
+      <link>https://valeriofirmanoo.github.io/PortfolioMy/post/chapter-3/</link>
       <pubDate>Sat, 10 Jul 2021 10:58:08 -0400</pubDate>
-      <guid>https://github.com/Valerio_Protfolio/post/chapter-3/</guid>
+      <guid>https://valeriofirmanoo.github.io/PortfolioMy/post/chapter-3/</guid>
       <description>Github Repo&#xA;The goal of this project was to write a fast and reliable library to compute the price of different Options built on stochastic-simulated stock paths, leveraging the computational power of GPUs and CUDA&#xA;Main points:&#xA;Developed a CUDA-based library for GPU-accelerated Monte Carlo simulations, achieving over 30× faster option pricing analyses for both vanilla and exotic options compared to CPU benchmarks. Leverage CUDA programming and financial modeling, ensuring rapid and accurate option valuation in high-performance computing settings.</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://github.com/Valerio_Protfolio/about/</link>
+      <link>https://valeriofirmanoo.github.io/PortfolioMy/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/Valerio_Protfolio/about/</guid>
+      <guid>https://valeriofirmanoo.github.io/PortfolioMy/about/</guid>
       <description>I am very passionate and curious about Data Science and AI. my name is Valerio Firmano and I recently graduated in Applied Mathematics from the Polytechnic University of Turin. During my undergraduate career I had the opportunity to learn what is behind Data Science, Statistical Learning, Machine Learning by seeing different facets of it and then applying them in different real-world projects. I also developed big data management skills by developing ETL pipelines and optimizing processes in my internship as a BI engineer at Amazon.</description>
     </item>
     <item>
       <title>Contacts</title>
-      <link>https://github.com/Valerio_Protfolio/contact/</link>
+      <link>https://valeriofirmanoo.github.io/PortfolioMy/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/Valerio_Protfolio/contact/</guid>
+      <guid>https://valeriofirmanoo.github.io/PortfolioMy/contact/</guid>
       <description>Some useful contacts!&#xA;Phone Number: +39 3278223648&#xA;Platform URL Linkedin: https://www.linkedin.com/in/valeriofirmano/ GitHub: https://github.com/ValerioFirmanoo Email: valerio.firmano@gmail.com </description>
     </item>
   </channel>
