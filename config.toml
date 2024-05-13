@@ -1,5 +1,5 @@
 title = "Valerio Firmano"
-baseURL = "https://github.com/Valerio_Protfolio"
+baseURL = "https://valeriofirmanoo.github.io/PortfolioMy/"
 languageCode = "en-us"
 theme = ["ananke"]
 resourceDir = "../resources"
