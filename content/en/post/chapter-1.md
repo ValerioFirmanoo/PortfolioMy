@@ -15,7 +15,6 @@ Main points:
 video analysis, aiming to improve generalization in egocentric action recognition across varying domain shifts.
 * Implemented a novel approach combining adversarial learning with attentive mechanisms and Minimum Class Confusion loss,
 improving accuracy of +8% respect to the plain model.
-{{< figure src="/images/net.png" >}}
 * Demonstrated substantial performance gains in action recognition on the public EPIC-KITCHENS dataset, reaching an average
 accuracy of 56.8% on unseen data, near to the state of the art.
 

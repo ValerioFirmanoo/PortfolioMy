@@ -6,7 +6,7 @@ menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/file.jpg" >}}
+{{< figure src="static/images/selfie.jpeg" >}}
 
  I am very passionate and curious about Data Science and AI. my name is Valerio Firmano and I recently graduated in Applied Mathematics from the Polytechnic University of Turin. During my undergraduate career I had the opportunity to learn what is behind Data Science, Statistical Learning, Machine Learning by seeing different facets of it and then applying them in different real-world projects. I also developed big data management skills by developing ETL pipelines and optimizing processes in my internship as a BI engineer at Amazon.
 
